@@ -1,0 +1,32 @@
+<ordermanagment>
+  <products>
+    <product ID="1" name="gsdfd" rozPrice="125.5" optPrice="2115" description="asdasd"/>
+    <product ID="2" name="gsdfd" rozPrice="125.5" optPrice="2115" description="asdasd"/>
+    <product ID="3" name="gsdfd" rozPrice="125.5" optPrice="2115" description="asdasd"/>
+    <product ID="4" name="gsdfd" rozPrice="125.5" optPrice="2115" description="asdasd"/>
+  </products>
+  <customers>
+    <customer ID="1" number="87013331254" contactFace="sadsdas" address="asdasdsda"/>
+    <customer ID="2" number="87013331254" contactFace="sadsdas" address="asdasdsda"/>
+    <customer ID="3" number="87013331254" contactFace="sadsdas" address="asdasdsda"/>
+  </customers>
+  <deals>
+    <deal ID="1" date="10.12.2023" amount="2" customerID="1" type="dasdasd">
+      <products_ID>
+        <product_ID ID="2"/>
+        <product_ID ID="4"/>
+      </products_ID>
+    </deal>
+    <deal ID="2" date="10.12.2023" amount="1" customerID="2" type="dasdasd">
+      <products_ID>
+        <product_ID ID="1"/>
+      </products_ID>
+    </deal>
+    <deal ID="3" date="10.12.2023" amount="2" customerID="3" type="dasdasd">
+      <products_ID>
+        <product_ID ID="2"/>
+        <product_ID ID="3"/>
+      </products_ID>
+    </deal>
+  </deals>
+</ordermanagment>

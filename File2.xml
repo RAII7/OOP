@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<dealmanagment>
+	<products>
+		<product ID="1" name="gsdfd" rozPrice="125.5" optPrice="2115" description="asdasd" />
+		<product ID="2" name="gsdfd" rozPrice="125.5" optPrice="2115" description="asdasd" />
+		<product ID="3" name="gsdfd" rozPrice="125.5" optPrice="2115" description="asdasd" />
+		<product ID="4" name="gsdfd" rozPrice="125.5" optPrice="2115" description="asdasd" />
+	</products>
+	<customers>
+		<customer ID="1" number="4294967295" contactFace="sadsdas" address="asdasdsda" />
+		<customer ID="2" number="4294967295" contactFace="sadsdas" address="asdasdsda" />
+		<customer ID="3" number="4294967295" contactFace="sadsdas" address="asdasdsda" />
+	</customers>
+	<deals>
+		<deal ID="1" date="dasdasd" amount="2" type="">
+			<products_id />
+		</deal>
+		<deal ID="2" date="dasdasd" amount="1" type="">
+			<products_id />
+		</deal>
+		<deal ID="3" date="dasdasd" amount="2" type="">
+			<products_id />
+		</deal>
+	</deals>
+</dealmanagment>
